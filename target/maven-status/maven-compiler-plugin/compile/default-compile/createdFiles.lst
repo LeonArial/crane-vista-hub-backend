@@ -1,0 +1,6 @@
+com\example\cranevistahubbackend\CraneVistaHubBackendApplication.class
+com\example\cranevistahubbackend\EquipmentRepository.class
+com\example\cranevistahubbackend\Equipment.class
+com\example\cranevistahubbackend\Equipment$EquipmentType.class
+com\example\cranevistahubbackend\Equipment$Status.class
+com\example\cranevistahubbackend\EquipmentController.class

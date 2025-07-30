@@ -20,7 +20,7 @@ public class Equipment {
     private String code;
 
     @Enumerated(EnumType.STRING)
-    private Status status;
+    private EquipmentStatus status;
 
     private String location;
 
@@ -67,13 +67,4 @@ public class Equipment {
     @Temporal(TemporalType.DATE)
     private Date nextMaintenance;
 
-    // Enum for Status
-    public enum Status {
-        online, offline, warning, maintenance
-    }
-
-    // Enum for EquipmentType
-    public enum EquipmentType {
-        crane, mixer
-    }
 }

@@ -1,6 +1,8 @@
 com\example\cranevistahubbackend\CraneVistaHubBackendApplication.class
 com\example\cranevistahubbackend\EquipmentRepository.class
+com\example\cranevistahubbackend\EquipmentType.class
+com\example\cranevistahubbackend\WebSocketConfig.class
+com\example\cranevistahubbackend\EquipmentStatus.class
 com\example\cranevistahubbackend\Equipment.class
-com\example\cranevistahubbackend\Equipment$EquipmentType.class
-com\example\cranevistahubbackend\Equipment$Status.class
 com\example\cranevistahubbackend\EquipmentController.class
+com\example\cranevistahubbackend\EquipmentUpdateRequest.class
